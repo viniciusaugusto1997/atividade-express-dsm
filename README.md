@@ -84,6 +84,13 @@ npm run dev
 
 ---
 
+---
+
+## Autor
+
+Vinicius Augusto  
+Curso: Desenvolvimento de Software Multiplataforma - FATEC
+
 ## Observações importantes (para estudo)
 
 - As páginas de login e cadastro são exemplos de interface. Ainda não há validação real de usuário no backend.
